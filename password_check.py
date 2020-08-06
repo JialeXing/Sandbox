@@ -1,5 +1,5 @@
 def main():
-    length = 8
+    length = 6
     password = get_password(length)
     print_asterisks(password)
 
